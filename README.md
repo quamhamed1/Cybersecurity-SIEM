@@ -14,4 +14,10 @@ This repository contains the configurations for setting up and using SPLUNK SIEM
 ## Steps 
 
 1. ** Installing SPLUNK Version 9.4.0**:
-   
+
+Description: In this step, I installed Splunk enterprise on a virtual machine and accessed the splunk web interface.
+
+Key Actions: 
+- Downloaded and installed splunk from [Splunk Downloads](https://www.splunk.com/en_us/download/splunk-enterprise/thank-you-enterprise.html)
+- Installed Splunk using the default installation options
+- Logged into Splunk Web at http://localhost:8000
