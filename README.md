@@ -6,5 +6,5 @@ This repository contains the configurations for setting up and using SPLUNK SIEM
 ## Steps 
 
 
-1. ** Installing SPLUNK**:
+1. ** Installing SPLUNK Version 9.4.0**:
    
