@@ -9,3 +9,7 @@
 
 **STEP 2 - Configuring Data Inputs**
 
+- Installation of Splunk Universal Forwarder
+  
+  ![image](https://github.com/user-attachments/assets/216bbfa1-0373-444f-a60e-de6230582e06)
+
