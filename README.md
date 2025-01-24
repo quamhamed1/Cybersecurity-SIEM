@@ -41,6 +41,7 @@ Key Actions:
 
 - Ran commands under 'search and reporting' apps to ensure data is being collected
 
-5. Save Searches and Create Dashboards
+5. Save Searches
+6. Create Dashboards 
 
 
