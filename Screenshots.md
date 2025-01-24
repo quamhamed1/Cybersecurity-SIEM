@@ -7,11 +7,14 @@
 ![image](https://github.com/user-attachments/assets/2d5267f8-e8d3-432a-8af3-8f91b0697ce1)
 
 
-**STEP 2 - Configuring Data Inputs**
+**STEP 2 - Installing Universal Forwarder**
 
 - Installation of Splunk Universal Forwarder (Forwards data from machine to SIEM)
   
   ![image](https://github.com/user-attachments/assets/216bbfa1-0373-444f-a60e-de6230582e06)
+
+
+**STEP 3 - Configuring Data Inputs**
 
 - Event log collections
 
