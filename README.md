@@ -37,6 +37,9 @@ Key Actions:
 - Selected "Security, System, Application" to be monitored
 - Set source type, host, and index
 
+4. Verify inputs to confirm logs are being ingested.
+
+- Ran commands under 'search and reporting' apps to ensure data is being collected
 
 
 
