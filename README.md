@@ -38,5 +38,5 @@ Key Actions:
 - Set source type, host, and index
 
 
-- 
+
 
