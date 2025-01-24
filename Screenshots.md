@@ -36,7 +36,22 @@
 ![image](https://github.com/user-attachments/assets/345d9c38-4c3e-4af0-92b9-d94aaa5fd05c)
 
 
-**STEP 5 - Save Searches and Create Dashboards**
+**STEP 5 Part 1 - Save Searches as Reports**
 
+- Security Log Summary
+  
+![image](https://github.com/user-attachments/assets/1e059e09-fac3-417b-9c38-210b3617e584)
+
+- Application Log Summary
+
+![image](https://github.com/user-attachments/assets/20456b92-c96d-476e-a839-8ea232093760)
+
+- System Log Summary
+
+![image](https://github.com/user-attachments/assets/04ab74ee-4e9f-4961-9b09-3c0ab7e15b55)
+
+- All three saved reports
+
+![image](https://github.com/user-attachments/assets/75090fbd-e484-4ba9-9d98-6e07cd69a179)
 
 
