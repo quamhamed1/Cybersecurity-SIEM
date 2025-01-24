@@ -29,5 +29,13 @@ Description: In this step, I installed the universal data forwarder
 Key Actions:
 - Downloaded and installed data forwarder from from (https://www.splunk.com/en_us/download/universal-forwarder.html?locale=en_us)
 - Configured server name and receiver port number, 9997
-- Added splunk server as forwarder target on windows machine 
+- Added splunk server as forwarder target on windows machine
+
+3. Configuring data inputs
+
+- Selected "Security, System, Application" to be monitored
+- Set source type, host, and index
+
+
+- 
 
