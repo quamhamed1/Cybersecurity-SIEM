@@ -19,3 +19,20 @@
 - Event log collections
 
 ![image](https://github.com/user-attachments/assets/840e2f79-41e7-4d70-bf9e-a1184600bea9)
+
+
+**STEP 4 - Verifying data ingestion**
+
+- Data ingestion for Security
+  
+![image](https://github.com/user-attachments/assets/1f743864-9cc5-485d-96e1-4c26f76494f8)
+
+- Data ingestion for system
+  
+![image](https://github.com/user-attachments/assets/e984750e-d277-40bf-a973-20dc7c5cd78a)
+
+- Data ingestion for Application 
+
+![image](https://github.com/user-attachments/assets/345d9c38-4c3e-4af0-92b9-d94aaa5fd05c)
+
+
