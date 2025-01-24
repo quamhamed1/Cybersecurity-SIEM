@@ -5,6 +5,7 @@ This repository contains the configurations for setting up and using SPLUNK SIEM
 
 ## Lab Objectives 
 - Install Splunk on A virtual machine
+- Installing data forwarder
 - Configure data inputs
 - Create dashboards and alerts for monitoring security events
 - Simulate security incidents and analyze data in Splunk
