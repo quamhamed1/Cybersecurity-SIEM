@@ -54,4 +54,10 @@
 
 ![image](https://github.com/user-attachments/assets/75090fbd-e484-4ba9-9d98-6e07cd69a179)
 
+**Step 6 - Creating a dashboard**
+
+![image](https://github.com/user-attachments/assets/58a81649-d17c-430a-9de4-642151d4759b)
+
+![image](https://github.com/user-attachments/assets/d36d090e-c837-4016-9d0a-220ac918f2f9)
+
 
